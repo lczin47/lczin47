@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas (2º período), monitor de Lógica Computacional e cursando Programador de Sistemas. Experiência no Exército (disciplina e trabalho em equipe). Domínio em Excel e Word, inglês básico/intermediário.
+Estudante de Análise e Desenvolvimento de Sistemas (2º período), ja atuei como monitor de Lógica Computacional . Experiência no Exército (disciplina e trabalho em equipe). inglês intermediário.
 
 
 ## 🌐 Socials:
